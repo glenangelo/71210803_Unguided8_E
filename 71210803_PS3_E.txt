@@ -1,0 +1,17 @@
+Program Pencarian Bilangan Fibonacci
+
+Deklarasi
+n=Urutan ke-n dalam barisan bilangan Fibonacci
+Un=Nilai Bilangan ke-n dari barisan Fibonacci
+U1=1
+U2=1
+
+Deskripsi
+Input n
+Read n
+	If n>0, then 
+		n = True, 
+	Else
+		n = False, Program stop
+Sum Un-2(Bilangan ke n-2) + Un-1(Bilangan ke n-2)
+Output "Angka"
